@@ -50,8 +50,13 @@ Fokus utama projek adalah membuat aplikasi manajemen data penerima bantuan sosia
 
 ---
 
-## Cara Menjalankan
+## Cara Menjalankan Program
 
-1. Kompilasi semua file `.java`  
-   ```bash
-   javac Main.java DaftarPenerima.java PenerimaBansos.java
+```bash
+git clone https://github.com/Trixesu/sdl.projek.git
+
+cd sdl.projek
+
+javac Main.java DaftarPenerima.java PenerimaBansos.java
+
+java Main
