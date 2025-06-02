@@ -54,9 +54,6 @@ Fokus utama projek adalah membuat aplikasi manajemen data penerima bantuan sosia
 
 ```bash
 git clone https://github.com/Trixesu/sdl.projek.git
-
 cd sdl.projek
-
 javac Main.java DaftarPenerima.java PenerimaBansos.java
-
 java Main
